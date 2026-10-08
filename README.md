@@ -1,5 +1,5 @@
 Hi, I'm **Bálint**... 🦑
 <br/>
-and the faster I fail the quicker I learn...
+the faster we fail the quicker we learn
 <br/>
-fixing things using Javascript...
+fixing things using (mostly) Javascript
